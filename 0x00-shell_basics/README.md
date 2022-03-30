@@ -1,2 +1,1 @@
-#!/bin/bash
-Creating current working directory
+Working with shell basics
