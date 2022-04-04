@@ -1,3 +1,2 @@
-#!/bin/bash
-# alx-system_engineering-devops
+# Alx System Engineering Devops
 Starting to code in a better way
