@@ -1,0 +1,1 @@
+Creating shell redirections directory
