@@ -9,6 +9,6 @@ echo "
    default_backend http_back
 backend http_back
    balance roundrobin
-   server 904-web-01 44.197.251.255:80 check
-   server 904-web-02 3.238.230.78:80 check" | sudo tee /etc/haproxy/haproxy.cfg
+   server 904-web-01 54.208.26.40:80 check
+   server 904-web-02 54.165.39.167:80 check" | sudo tee /etc/haproxy/haproxy.cfg
 sudo service haproxy reload
